@@ -14,7 +14,7 @@ O Sr.Marcelo, gerente de um hotel de luxo localizado em Valinhos, São Paulo est
 - **Despesas por setores:** [Despesa Total por cada setor do ano]
 - **Receita por estação:** [Receita total por cada estação do ano]
 - **Despesas por estação:** [Despesas total por cad aestação do ano]
-- **Maiores % De Lucro por ano:** [Maiores % de lucro por ano]
+- **Maiores % De Lucro:** [Maiores % de lucro ao ano]
 - **Receita Líquida por ano:** [Receita Líquida por ano]
 
   ### ◾ Criação Do Dashboard:
@@ -31,4 +31,25 @@ Por fim, após entendermos os requisitos necessários, é momento da criação d
 8. Formatação visual;
 9. Formatação Condicional;
 10. Medidas DAX;
-11. Por último e não menos importante: um ótimo storytelling. 
+11. Por último e não menos importante: um ótimo storytelling.
+
+Você pode visualizar o resultado do Dashboard na web [**CLICANDO AQUI!**](https://app.powerbi.com/view?r=eyJrIjoiMTQ3YzkwODUtZjc3ZC00MTgxLWEwODEtOTJhNjY2NmQ5MzI4IiwidCI6IjRhMTg3ZWI1LTNmM2UtNDViOS05ODZkLTI4ZTY3YzI4Njk1NiJ9) Ou acessando a demonstração do mesmo que está em formato .pdf logo acima nos arquivos deste repositório. 
+
+### ◾ Tecnologias Utilizadas: 
+<div <br> 
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+</div> 
+
+## Autor:
+
+<img  src="https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL/assets/145637595/9800ac43-2070-48d4-9002-dbf82f756f2c" width="80" alt="cognitiveclass.ai logo" align="left" /> 
+
+### &nbsp;&nbsp;Philippe Izidório
+
+<p>
+&nbsp;&nbsp;Estudante De Ciência De Dados / Business Intelligence / Analista De Dados<br/>
+&nbsp;&nbsp;LinkedIn: https://www.linkedin.com/in/philippeizidorio/<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: euphilippeizidorio@gmail.com<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portifólio de projetos em Data Science: https://github.com/Philippeizidorio
+</p>
