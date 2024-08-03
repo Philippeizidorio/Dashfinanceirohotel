@@ -17,7 +17,7 @@ O Sr.Marcelo, gerente de um hotel de luxo localizado em Valinhos, São Paulo est
 - **Maiores % De Lucro:** [Maiores % de lucro ao ano]
 - **Receita Líquida por ano:** [Receita Líquida por ano]
 
-  ### ◾ Criação Do Dashboard:
+### ◾ Criação Do Dashboard:
 
 Por fim, após entendermos os requisitos necessários, é momento da criação do dashboard em sí, para isso, utilizei os seguintes gráficos e recursos do Power BI ↓
 
