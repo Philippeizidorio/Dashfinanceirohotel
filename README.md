@@ -13,9 +13,9 @@ O Sr.Marcelo, gerente de um hotel de luxo localizado em Valinhos, São Paulo est
 - **Receita por setores:** [Receita Total por cada setor]
 - **Despesas por setores:** [Despesa Total por cada setor do ano]
 - **Receita por estação:** [Receita total por cada estação do ano]
-- **Despesas por estação:** [Despesas total por cad aestação do ano]
-- **Maiores % De Lucro:** [Maiores % de lucro ao ano]
-- **Receita Líquida por ano:** [Receita Líquida por ano]
+- **Despesas por estação:** [Despesas total por cada aestação do ano]
+- **Maiores % De Lucro:** [Maiores % de lucro por ano]
+- **Receita Líquida:** [Receita Líquida por ano]
 
 ### ◾Criação Do Dashboard:
 
