@@ -6,14 +6,14 @@ O Sr.Marcelo, gerente de um hotel de luxo localizado em Valinhos, São Paulo est
 
 ### ◾Requisitos de dados: 
 
-- **Receita total:** [Soma de toda receita]
+- **Receita Total:** [Soma de toda receita]
 - **Despesas Total:** [Soma de todas despesas]
 - **Receita Líquida:** [Receita total - Despesas Total]
 - **% De Lucro:** [Margem de lucro em (%)]
 - **Receita por setores:** [Receita Total por cada setor]
 - **Despesas por setores:** [Despesa Total por cada setor do ano]
 - **Receita por estação:** [Receita total por cada estação do ano]
-- **Despesas por estação:** [Despesas total por cada aestação do ano]
+- **Despesas por estação:** [Despesas total por cada estação do ano]
 - **Maiores % De Lucro:** [Maiores % de lucro por ano]
 - **Receita Líquida:** [Receita Líquida por ano]
 
