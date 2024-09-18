@@ -33,7 +33,7 @@ Por fim, após entendermos os requisitos necessários, é momento da criação d
 10. Medidas DAX;
 11. Por último e não menos importante: um ótimo storytelling.
 
-Você pode visualizar o resultado do Dashboard na web [**CLICANDO AQUI!**](https://app.powerbi.com/view?r=eyJrIjoiMTQ3YzkwODUtZjc3ZC00MTgxLWEwODEtOTJhNjY2NmQ5MzI4IiwidCI6IjRhMTg3ZWI1LTNmM2UtNDViOS05ODZkLTI4ZTY3YzI4Njk1NiJ9) Ou acessando a demonstração do mesmo que está em formato .pdf logo acima nos arquivos deste repositório. 
+Você pode visualizar o resultado do Dashboard na web [**CLICANDO AQUI!**](https://app.powerbi.com/view?r=eyJrIjoiNWIwMWQ4MjEtMGU4Mi00MmZjLTlhYTMtMjg3YmFjNjNiYjMyIiwidCI6IjRhMTg3ZWI1LTNmM2UtNDViOS05ODZkLTI4ZTY3YzI4Njk1NiJ9) Ou acessando a demonstração do mesmo que está em formato .pdf logo acima nos arquivos deste repositório. 
 
 ### ◾Tecnologias Utilizadas: 
 <div <br> 
